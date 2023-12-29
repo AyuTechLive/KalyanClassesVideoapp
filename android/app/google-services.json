@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208377339514",
+    "project_id": "kalyan-educations",
+    "storage_bucket": "kalyan-educations.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208377339514:android:81f6626f66dc85cf8f65c3",
+        "android_client_info": {
+          "package_name": "com.example.kalyan_education_video_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEi70w4FmZSBKsKoECR7s381dbYeyLz70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
