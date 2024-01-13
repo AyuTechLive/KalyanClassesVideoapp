@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "208377339514",
-    "project_id": "kalyan-educations",
-    "storage_bucket": "kalyan-educations.appspot.com"
+    "project_number": "772869858461",
+    "project_id": "ganitvani2",
+    "storage_bucket": "ganitvani2.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:208377339514:android:81f6626f66dc85cf8f65c3",
+        "mobilesdk_app_id": "1:772869858461:android:5af9575c1c3bd97b8ba074",
         "android_client_info": {
-          "package_name": "com.example.kalyan_education_video_app"
+          "package_name": "com.ganit.vani.app"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDEi70w4FmZSBKsKoECR7s381dbYeyLz70"
+          "current_key": "AIzaSyBtJz2VDDCS1EXGuoPQJtqS7lCbrdSY_6A"
         }
       ],
       "services": {

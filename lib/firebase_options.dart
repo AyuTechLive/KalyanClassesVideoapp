@@ -44,38 +44,38 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyD-3WGmpIN1giw-gJp46LDvEgFib1YM8vY',
-    appId: '1:208377339514:web:31a30fb7b19f21cd8f65c3',
-    messagingSenderId: '208377339514',
-    projectId: 'kalyan-educations',
-    authDomain: 'kalyan-educations.firebaseapp.com',
-    storageBucket: 'kalyan-educations.appspot.com',
-    measurementId: 'G-RJKFHH9TB2',
+    apiKey: 'AIzaSyCsnAG5SH5sV_JEgpK2A2PA-fI0ng_82l8',
+    appId: '1:772869858461:web:2f444cdea41bbf218ba074',
+    messagingSenderId: '772869858461',
+    projectId: 'ganitvani2',
+    authDomain: 'ganitvani2.firebaseapp.com',
+    storageBucket: 'ganitvani2.appspot.com',
+    measurementId: 'G-Z48L1P4PCQ',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDEi70w4FmZSBKsKoECR7s381dbYeyLz70',
-    appId: '1:208377339514:android:81f6626f66dc85cf8f65c3',
-    messagingSenderId: '208377339514',
-    projectId: 'kalyan-educations',
-    storageBucket: 'kalyan-educations.appspot.com',
+    apiKey: 'AIzaSyBtJz2VDDCS1EXGuoPQJtqS7lCbrdSY_6A',
+    appId: '1:772869858461:android:5af9575c1c3bd97b8ba074',
+    messagingSenderId: '772869858461',
+    projectId: 'ganitvani2',
+    storageBucket: 'ganitvani2.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDApl-ki7lGqWBHLfrVmrchCxC_S-YOJmw',
-    appId: '1:208377339514:ios:8067d501ad3dac8e8f65c3',
-    messagingSenderId: '208377339514',
-    projectId: 'kalyan-educations',
-    storageBucket: 'kalyan-educations.appspot.com',
+    apiKey: 'AIzaSyCRBUAFUB-VMa4g8dZmIRefIIVFLDdCRmA',
+    appId: '1:772869858461:ios:fd43cdeb2712243a8ba074',
+    messagingSenderId: '772869858461',
+    projectId: 'ganitvani2',
+    storageBucket: 'ganitvani2.appspot.com',
     iosBundleId: 'com.example.kalyanEducationVideoApp',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDApl-ki7lGqWBHLfrVmrchCxC_S-YOJmw',
-    appId: '1:208377339514:ios:e3cf460f14af15d48f65c3',
-    messagingSenderId: '208377339514',
-    projectId: 'kalyan-educations',
-    storageBucket: 'kalyan-educations.appspot.com',
+    apiKey: 'AIzaSyCRBUAFUB-VMa4g8dZmIRefIIVFLDdCRmA',
+    appId: '1:772869858461:ios:aeaa5508136a07cc8ba074',
+    messagingSenderId: '772869858461',
+    projectId: 'ganitvani2',
+    storageBucket: 'ganitvani2.appspot.com',
     iosBundleId: 'com.example.kalyanEducationVideoApp.RunnerTests',
   );
 }

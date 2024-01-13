@@ -1,4 +1,4 @@
-package com.example.kalyan_education_video_app
+package com.ganit.vani.app
 
 import io.flutter.embedding.android.FlutterActivity
 
